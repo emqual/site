@@ -1,0 +1,14 @@
+brand: Emqual
+
+bootswatch: null # flatly, yeti, lumen,... 
+navbar_inverse: false 
+bootstrap: 3.3.4
+navbar_right_items: 1
+
+reflinks:
+    titanpcb:
+        url: http://github.com/c-e-s/titan
+        title: Titan PCB source
+    titanwiggle:
+        url: http://github.com/c-e-s/titan_wiggle
+        title: Titan firmware source
